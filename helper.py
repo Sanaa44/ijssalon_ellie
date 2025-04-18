@@ -1,4 +1,7 @@
-prijzen = {"aardbei": 3,
-           "vanille": 4,
-           "chocolade": 5
-           }
+tekst="header"
+lengte =len(tekst) + 4
+print()
+print(lengte * "*")
+print (f"* {tekst} *")
+print(lengte * "*")
+print()
